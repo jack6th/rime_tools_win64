@@ -1,0 +1,7 @@
+Librime is library for Chineese input method.
+
+There are two useful tools in librime which are not available on Windows.
+1. rime_deployer            a command line tool to deploy dict.
+2. rime_dict_manager        a command line tool to manager user dict.
+I compiled the x64 version rime_deployer.exe and rime_dict_manager.exe with MinGW64 and librime master 87e4c73. (v1.3.7 with update)
+They are not depend on rime.dll.
